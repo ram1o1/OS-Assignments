@@ -1,2 +1,5 @@
 #log files
 *.txt
+!bash_trace_output.txt
+!trace_output.txt
+
